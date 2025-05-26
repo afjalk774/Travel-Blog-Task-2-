@@ -1,5 +1,6 @@
 # Travel-Blog-Task-2-
-Wanderlust Travel Blog
+# RoamCollective
+RoamCollective Travel Blog
 A beautiful, responsive travel blog website to share travel stories, photos, and tips from around the world. Built using modern web technologies to deliver a clean, immersive experience.
 
 
